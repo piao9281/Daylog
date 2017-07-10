@@ -1,0 +1,14 @@
+setup daylog DB
+
+make tag.php  #for *tag action
+	follow ./Diagram_*tag.dia
+
+
+make ShowPosts.php  #for posts
+
+
+
+####To confirm table structure:
+SHOW FIELDS FROM table_name;
+
+
